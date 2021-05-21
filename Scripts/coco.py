@@ -24,16 +24,6 @@
 # data such as text-captions describing the contents of the images.
 #
 ########################################################################
-#
-# This file is part of the TensorFlow Tutorials available at:
-#
-# https://github.com/Hvass-Labs/TensorFlow-Tutorials
-#
-# Published under the MIT License. See the file LICENSE for details.
-#
-# Copyright 2018 by Magnus Erik Hvass Pedersen
-#
-########################################################################
 
 import json
 import os
